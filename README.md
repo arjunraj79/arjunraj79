@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **arjunraj2k3k@gmail.com**
 
-- 📄 Know about my experiences https:**//drive.google.com/file/d/1CegS_MT0YWHFjiyWvhn6zgYRH0LJm2yy/view?usp=drive_link**
+- 📄 Know about my experiences **https://drive.google.com/file/d/1CegS_MT0YWHFjiyWvhn6zgYRH0LJm2yy/view?usp=drive_link**
 - 📄 My website **https://arjunraj79.github.io/Website_Arjun_Raj/**
 
 <h3 align="left">Connect with me:</h3>

@@ -1,20 +1,11 @@
-<h1 align="center">Hi everyone👨🏻‍🍳, I'm Arjun Raj.</h1>
+<h1 align="center">Hi everyone, I'm Arjun Raj.</h1>
 <h3 align="center">Computer Science student seeking opportunities. A highly motivated fresher with a strong foundation in programming languages and web framework.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunraj79&label=Profile%20views&color=0e75b6&style=flat" alt="arjunraj79" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunraj79" alt="arjunraj79" /></a> </p>
 
-- 🔭 I’m currently working on **ModSecurity**
-
-- 🌱 I’m currently learning **Cybersecurity**
-
-- 👯 I’m looking to collaborate on **CryptoJS**
-
-- 📫 How to reach me **arjunraj2k3k@gmail.com**
-
-- 📄 Know about my experiences **https://drive.google.com/file/d/1CegS_MT0YWHFjiyWvhn6zgYRH0LJm2yy/view?usp=drive_link**
-- 📄 My website **https://arjunraj79.github.io/Website_Arjun_Raj/**
+- 📄 My website(also link to my resume) **https://arjunraj79.github.io/Website_Arjun_Raj/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

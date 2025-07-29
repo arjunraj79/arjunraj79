@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate Full Stack Developer with strong expertise in Java, Python, and modern frontend development using React. I enjoy building scalable web applications that deliver great user experiences and clean, maintainable code.<br><br>💻 Tech Stack: Java | Spring Boot | Python | React | REST APIs | SQL/NoSQL<br>🚀 Focused on crafting full-cycle solutions—from backend logic to intuitive frontend interfaces<br>📚 Lifelong learner, currently exploring cloud-native development and system design<br>🤝 Open to collaboration on impactful projects and innovative ideas
+I'm a passionate Full Stack Developer with strong expertise in Java, Python, and modern frontend development using React. I enjoy building scalable web applications that deliver great user experiences and clean, maintainable code.<br><br>🚀 Focused on crafting full-cycle solutions—from backend logic to intuitive frontend interfaces<br>📚 Lifelong learner, currently exploring cloud-native development and system design<br>🤝 Open to collaboration on impactful projects and innovative ideas
 
 
 ## 🌐 Socials:
